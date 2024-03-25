@@ -1,0 +1,11 @@
+{
+  "name": "contact-appliccation-backend",
+  "version": "1.0.0",
+  "description": "Contact Application Backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourav Chakraborty",
+  "license": "ISC"
+}
